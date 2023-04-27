@@ -1,0 +1,42 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #F3F4F9;
+    font-family: sans-serif;
+    color: #203cb3;
+  }
+
+.banner {
+    background: rgb(12, 130, 100);
+    color: white;
+    padding: 12px;
+    padding-left: 48px;
+}
+
+.h2-title {
+    font-family: sans-serif;
+    display: inline-block;
+    letter-spacing: 3.8px;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.bg-white{
+    background-color: white;
+    padding: 24px 32px;
+    height: 500px;
+}
+
+.app-body{
+    margin-left: 4%;
+}
+
+.padding-top-bot{
+    padding-top: 12px;
+    padding-bottom: 18px;
+}
+
+.user-control{
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
